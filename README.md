@@ -10,7 +10,7 @@
 
 *For more details see my youtube channel 
 
-*Click :- [ELHAKEM](https://youtube.com/@elhakemyt9003)
+*Click :- [ELHAKEM](https://youtube.com/@ELHAKEM_YT)
 
 <h3>How to run this Tool "Elhakem Virus"</h3>
 
@@ -18,17 +18,17 @@
 
 <h4>_________</h4>
 
-$ apt update 
+$ `apt update`
 
-$ apt upgrade -y
+$ `apt upgrade -y`
 
-$ pkg install git -y
+$ `pkg install git -y`
 
-$ git clone 
+$ `git clone`
 
-$ cd ElhakemVirus
+$ `cd ElhakemVirus`
 
-$ bash ElhakemVirus.sh
+$ `bash ElhakemVirus.sh`
 
 After Installation the Virus Applications or text file
 
